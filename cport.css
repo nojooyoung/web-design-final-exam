@@ -10,6 +10,11 @@ ul li{
     margin-right: 60px;
     } 
 
+a:link {
+    text-decoration: none; 
+    color: black;
+}
+
 a:visited{
     color: black;
 }

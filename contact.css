@@ -1,0 +1,55 @@
+#title{
+    font-size: 60px;
+}
+
+ul li{
+    font-family: Microsoft Sans Serif;
+    color: black;
+    list-style-type:none;
+    float: right;
+    margin-right: 60px;
+    } 
+
+a:visited{
+    color: black;
+}
+
+a:hover{
+    color: #A68AC5;
+}
+
+#jy {
+    font-family: Microsoft Sans Serif;
+    color: #A68AC5;
+}
+
+div {
+    float: inherit;
+}
+
+
+#facebook{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+#insta{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+#mail{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+#mail:hover{
+    transform: perspective(300px) translateZ(100px);
+    transition: transform 1s ease-out;
+}

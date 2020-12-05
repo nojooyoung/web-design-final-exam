@@ -1,0 +1,70 @@
+#title{
+    font-size: 60px;
+}
+
+ul li{
+    font-family: Microsoft Sans Serif;
+    color: black;
+    list-style-type:none;
+    float: right;
+    margin-right: 60px;
+    } 
+
+a:visited{
+    color: black;
+}
+
+a:hover{
+    color: #A68AC5;
+}
+
+#jy {
+    font-family: Microsoft Sans Serif;
+    color: #A68AC5;
+}
+
+div {
+    float: inherit;
+}
+
+#c1{
+    width: 400px;
+    height: 400px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+#c1:hover{
+    transform: perspective(300px) translateZ(100px);
+    transition: transform 1s ease-out;
+}
+
+#c2{
+    width: 400px;
+    height: 400px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+#c2:hover{
+    transform: perspective(300px) translateZ(100px);
+    transition: transform 1s ease-out;
+}
+
+#c3{
+    width: 400px;
+    height: 400px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+#c3:hover{
+    transform: perspective(300px) translateZ(100px);
+    transition: transform 1s ease-out;
+}

@@ -1,0 +1,50 @@
+@font-face{
+    font-family: Microsoft Sans Serif;
+    font-weight: nomal;
+}
+
+ul li{
+    font-family: Microsoft Sans Serif;
+    color: black;
+    list-style-type:none;
+    float: right;
+    margin-right: 60px;
+    } 
+
+a:visited{
+    color: black;
+}
+
+a:hover{
+    color: #A68AC5;
+}
+
+div {
+    float: inherit;
+}
+
+#title{
+    font-size: 60px;
+}
+
+#jy {
+    font-family: Microsoft Sans Serif;
+    color: #A68AC5;
+}
+
+#croll{
+    width: 400px;
+    margin-right: 100px;
+}
+
+#proll{
+    width: 400px;
+    margin-right: 100px;
+}
+
+#oroll{
+    width: 400px;
+    margin-right: 100px;
+}
+
+
